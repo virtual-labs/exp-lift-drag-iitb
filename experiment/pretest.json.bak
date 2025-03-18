@@ -1,0 +1,20 @@
+[
+    {
+        "question": "The drag force is given by",
+        "qid": 1,
+        "option_a": "$$ C_D \\frac{\\rho U^2}{2} $$",
+        "option_b": "$$ C_D A \\frac{\\rho U^2}{2} $$",
+        "option_c": "$$ C_D A \\\\rho U^2 $$",
+        "option_d": "$$ \\frac{\\rho U^2}{2} $$",
+        "correct_option": "b"
+    },
+    {
+        "question": "The lift force is given by",
+        "qid": 2,
+        "option_a": "$$ C_L A \\frac{\\rho U^2}{2} $$",
+        "option_b": "$$ C_L A \\rho U^2 $$",
+        "option_c": "$$ \\frac{\\rho U^2}{2} $$",
+        "option_d": "$$ C_L \\frac{\\rho U}{2} $$",
+        "correct_option": "a"
+    }
+]

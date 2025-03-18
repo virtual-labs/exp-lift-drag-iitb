@@ -1,0 +1,20 @@
+[
+   {
+      "question": "A man weighing 88 kgf descends to the ground from an aeroplane with the help of a parachute against the resistance of air. The velocity with which the parachute comes down is 19 m/s. Find the diameter of the parachute. Take CD = 0.5 and density of air ρ = 1.2 kg/m<sup>3</sup>",
+      "qid": 1,
+      "option_a": "2.61m",
+      "option_b": "5.72m ",
+      "option_c": "3.19m",
+      "option_d": "4.66m",
+      "correct_option": "c"
+   },
+   {
+      "question": "A man weighing 84 kgf descends to the ground from an aeroplane with the help of a parachute against the resistance of air. The velocity with which the parachute comes down is 21 m/s. Find the diameter of the parachute. Take CD = 0.5 and density of air ρ = 1.2 kg/m<sup>3</sup>",
+      "qid": 2,
+      "option_a": "2.82m",
+      "option_b": "4.63m",
+      "option_c": "5.84m",
+      "option_d": "3.59m",
+      "correct_option": "a"
+   }
+]
